@@ -1,7 +1,7 @@
 {
   "name": "TF-BOT-MD",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ HACKERTF ",
-  "logo": "",
+  "logo": "https://files.catbox.moe/y8xqqp.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -14,15 +14,15 @@
     },  
     
     "ALIVE_IMG": {
-      "description": "paste your image url if you don't have you can use this public url.",
-      "required": true,
-      "value": "your image url"
+      "description": "don't change this url.",
+      "required": false,
+      "value": "https://files.catbox.moe/y8xqqp.jpg"
     }, 
     
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "HI DEAR IM ONLINE.!!♻️"
+      "value": "HI DEAR IM ONLINE.Made By HACKER TF !!♻️"
     },
     
     "PREFIX": {
@@ -93,7 +93,7 @@
     }, 
 
     "BOT_NAME": {
-      "description": "write hear your name.",
+      "description": "HACKER TF.",
       "required": true,
       "value": "✦『TF-BOT-MD』✦"
     }, 
