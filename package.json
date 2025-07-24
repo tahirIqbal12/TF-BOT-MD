@@ -4,9 +4,9 @@
   "description": "A WhatsApp Bot Created By HACKER TF",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Botname-MD",
-    "stop": "pm2 stop Botname-MD",
-    "restart": "pm2 restart Botne-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name TF-BOT-MD",
+    "stop": "pm2 stop TF-BOT-MD",
+    "restart": "pm2 restart TF-BOT-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
