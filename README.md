@@ -44,7 +44,7 @@
    
   2..DEPLOY ON RENDER ⤵️
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/tahirii/TF-BOT-MD.git)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/tahiriqbal12/TF-BOT-MD.git)
 
 
    3..DEPLOY ON GITHUB ⤵️
