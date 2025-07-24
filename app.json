@@ -1,6 +1,6 @@
 {
-  "name": "your Botname",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ your name ",
+  "name": "TF-BOT-MD",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ HACKERTF ",
   "logo": "your image url",
   "keywords": ["bot"],
   "success_url": "/",
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦『Botname-MD』✦"
+      "value": "✦『TF-BOT-MD』✦"
     }, 
 
     "HEART_REACT": {
