@@ -99,11 +99,11 @@ jobs:
 ### Thank You Dear
 
 > DEVELOPER OF TF-BOT-MD 
-- [Lord Malvin ](https://github.com/tahiriqbal12)
+- [HACKER TF ](https://github.com/tahiriqbal12)
 - Creater and Owner Of TF-MD-BOT
 
 > TF-BOT-MD Helper
-- [Malvin King](https://github.com/tahiriqbal12)
+- [TAHIR IQBAL](https://github.com/tahiriqbal12)
 - For helping in bot plugin files.
 ---
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
